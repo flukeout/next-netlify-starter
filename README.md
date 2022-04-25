@@ -1,6 +1,7 @@
 # Next + Netlify Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/46648482-644c-4c80-bafb-872057e51b6b/deploy-status)](https://app.netlify.com/sites/next-dev-starter/deploys)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fflukeout%2Fnext-netlify-starter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fflukeout%2Fnext-netlify-starter?ref=badge_shield)
 
 This is a [Next.js](https://nextjs.org/) v12 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and set up to be instantly deployed to [Netlify](https://url.netlify.com/SyTBPVamO)!
 
@@ -37,3 +38,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 3. Run `npm run dev`
 4. Make your changes
 5. Connect to [Netlify](https://url.netlify.com/Bk4UicocL) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fflukeout%2Fnext-netlify-starter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fflukeout%2Fnext-netlify-starter?ref=badge_large)
